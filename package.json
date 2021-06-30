@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/ItsEvdok/NoSQL-SocialNet-API#readme",
   "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.0",
     "node": "^16.3.0"
   }
 }
