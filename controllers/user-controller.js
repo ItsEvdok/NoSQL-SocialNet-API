@@ -55,7 +55,7 @@ const userController = {
 
     // DELETE user
     deleteUser({params}, res){
-        User.fineOneAndDelete({ _id:params.id })
+        User.findOneAndDelete({ _id:params.id })
         .then((dbUserData) => {
             if(!dbUserData) {
                 res.status(404).json({ message: 'No User found with this id!' });
