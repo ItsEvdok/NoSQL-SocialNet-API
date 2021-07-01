@@ -37,7 +37,7 @@ To start server, run the following command:
 
 Set Up Walkthough: https://drive.google.com/file/d/1fJh4e85NxMfcZXMAuzL2ndRDqHDwrniW/view
 
-Test Walkthough: https://drive.google.com/file/d/1kvymfoidzknagdtC5sp-rX7nLAS4aayD/views
+Test Walkthough: https://drive.google.com/file/d/1kvymfoidzknagdtC5sp-rX7nLAS4aayD/view
 
 ## Tests
 
